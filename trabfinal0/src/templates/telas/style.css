@@ -1,0 +1,20 @@
+/* styles.css */
+
+.form-control-custom {
+    background-color: #e0f7fa; /* Cor de fundo */
+    color: #00695c; /* Cor do texto */
+  }
+  
+  .form-control-custom::placeholder {
+    color: #004d40; /* Cor do placeholder */
+  }
+  
+  .form-select-custom {
+    background-color: #e0f7fa; /* Cor de fundo */
+    color: #00695c; /* Cor do texto */
+  }
+  
+  .form-label-custom {
+    color: #004d40; /* Cor do texto do rótulo */
+  }
+  
